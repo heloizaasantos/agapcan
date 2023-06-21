@@ -21,21 +21,6 @@ body{
     background: linear-gradient(180deg, #371CC2 0%, rgba(161, 0, 119, 0.66) 51.04%, #EBD6D3 100%);
     
 }
-position: absolute;
-width: 815px;
-height: 285px;
-left: 506px;
-top: 386px;
-
-font-family: 'Italianno';
-font-style: normal;
-font-weight: 400;
-font-size: 54px;
-line-height: 68px;
-text-align: center;
-
-color: rgba(0, 0, 0, 0.97);
-
 .cabecalho-logo{
     position: absolute;
     width: 235px;
